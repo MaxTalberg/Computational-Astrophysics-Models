@@ -1,4 +1,4 @@
-# Computational astrophysics models
+# Computational Astrophysics Models
 ## PH30110
 
 
