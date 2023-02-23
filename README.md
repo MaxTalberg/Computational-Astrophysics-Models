@@ -1,5 +1,5 @@
-# PH30110
-## Computational astrophysics.
+# Computational astrophysics models
+## PH30110
 
 
 Consisted of 3 computational projects.
